@@ -1,0 +1,7 @@
+# Core dependency for Ethereum interaction
+web3>=6.0.0
+
+# Recommended for managing environment variables securely
+# The script will work without it but it's good practice to use it.
+# pip install python-dotenv
+python-dotenv>=1.0.0
