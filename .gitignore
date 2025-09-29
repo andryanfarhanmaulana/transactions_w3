@@ -1,1 +1,1 @@
-"__pycache__/\nvenv/\n*.pyc\n.env\ndist/\n"
+"__pycache__/\nvenv/\n*.pyc\n.env\ndist/\nbuild/\n*.egg-info/\n"
