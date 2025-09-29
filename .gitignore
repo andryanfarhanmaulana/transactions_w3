@@ -1,1 +1,1 @@
-"__pycache__/\nvenv/\n*.pyc\n.env\ndist/\nbuild/\n*.egg-info/\n"
+"__pycache__/\nvenv/\n*.pyc\n.env\ndist/\nbuild/\n*.egg-info/\n.idea/\n.pytest_cache/\n"
