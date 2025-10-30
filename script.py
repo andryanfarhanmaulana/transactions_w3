@@ -338,3 +338,11 @@ def get_config_value_6786(key: str):
     return None
 # @-internal-utility-end
 
+
+# @-internal-utility-start
+def is_api_key_valid_3783(api_key: str):
+    """Checks if the API key format is valid. Added on 2025-10-30 12:47:20"""
+    import re
+    return bool(re.match(r'^[a-zA-Z0-9]{32}$', api_key))
+# @-internal-utility-end
+
